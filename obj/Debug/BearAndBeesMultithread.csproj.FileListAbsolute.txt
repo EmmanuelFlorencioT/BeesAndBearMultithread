@@ -1,0 +1,8 @@
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Interfaces Gráficas\2Parcial_Threads\BearAndBeesMultithread\bin\Debug\BearAndBeesMultithread.exe.config
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Interfaces Gráficas\2Parcial_Threads\BearAndBeesMultithread\bin\Debug\BearAndBeesMultithread.exe
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Interfaces Gráficas\2Parcial_Threads\BearAndBeesMultithread\bin\Debug\BearAndBeesMultithread.pdb
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Interfaces Gráficas\2Parcial_Threads\BearAndBeesMultithread\obj\Debug\BearAndBeesMultithread.csproj.AssemblyReference.cache
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Interfaces Gráficas\2Parcial_Threads\BearAndBeesMultithread\obj\Debug\BearAndBeesMultithread.csproj.SuggestedBindingRedirects.cache
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Interfaces Gráficas\2Parcial_Threads\BearAndBeesMultithread\obj\Debug\BearAndBeesMultithread.csproj.CoreCompileInputs.cache
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Interfaces Gráficas\2Parcial_Threads\BearAndBeesMultithread\obj\Debug\BearAndBeesMultithread.exe
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Interfaces Gráficas\2Parcial_Threads\BearAndBeesMultithread\obj\Debug\BearAndBeesMultithread.pdb
