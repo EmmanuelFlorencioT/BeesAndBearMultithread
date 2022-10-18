@@ -16,8 +16,8 @@ namespace BearAndBeesMultithread
         {
             jarCap = N;
             jar = 0;
-            createBees();
             createBear();
+            createBees();
         }
 
         private void createBees()
@@ -44,15 +44,10 @@ namespace BearAndBeesMultithread
 
             while(counter < 5)
             {
-                if(turn == tid && bearAwake == false)
+                if(bearAwake == false && turn == tid)
                 {
                     Console.WriteLine("Bee {0} deposits {1} units of honey into the jar.", tid, beesCap[tid]);
-                    jar += beesCap[tid];/*
-                    if ((jar += beesCap[tid]) >= jarCap)
-                    {
-                        Console.WriteLine("Jar has now {0} units of honey.\n", jar);
-                        bearAwake = true;
-                    }*/
+                    jar += beesCap[tid];
                     Console.WriteLine("Jar has now {0} units of honey.\n", jar);
                     if(jar >= jarCap)
                     {
